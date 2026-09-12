@@ -1,4 +1,9 @@
-# Interactive Greeting Project
+## Interactive Greeting Project
+
+### Interactive Greeting Project
+My first Python project created in GitHub.
+
+[View Project](greeting-project)
 
 ## About This Project
 This is my first project stored in my Data Science GitHub portfolio.
